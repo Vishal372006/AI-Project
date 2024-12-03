@@ -2,13 +2,13 @@
 # Analyze healthcare facility distribution and accessibility in rural areas.
 # Group Members
 
-1. Vijapura Insha Asifbhai
+1. Vijapura Insha Asifbhai KU2407U588
 
-2. Vishal Mitesh Kumar Patel
+2. Vishal Mitesh Kumar Patel KU2407U589
  
-3. Mishree Patalia
+3. Mishree Patalia KU2407U639
  
-4. Dhrishti Patel
+4. Dhrishti Patel KU2407U709
  
 # Objective of the project
 
