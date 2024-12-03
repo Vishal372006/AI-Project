@@ -3,13 +3,13 @@
 # Group Members
 
 1. Vijapura Insha Asifbhai
-2. 
-3. Vishal Mitesh Kumar Patel
-4. 
-5. Mishree Patalia
-6. 
-7. Dhrishti Patel
-8. 
+
+2. Vishal Mitesh Kumar Patel
+ 
+3. Mishree Patalia
+ 
+4. Dhrishti Patel
+ 
 # Objective of the project
 
 **Mapping health care facilities :-** Identify the number of types of health care facilities, which include hospitals, clinics, pharmacies, and specialized centers in the countryside.
