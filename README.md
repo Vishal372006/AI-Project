@@ -87,11 +87,6 @@ Libraries: Chart.js, D3.js, or Plotly.
 
 **Non-Relational:** MongoDB for not-so-structured data storage.
 
-# Data Source
-
-The dataset which we use for this Assigenment is taken from the kaggle.
-Website Link:-https://www.kaggle.com/
-
 # Execution Steps
 
 1.Take the data set(csv file) from Kaggle
